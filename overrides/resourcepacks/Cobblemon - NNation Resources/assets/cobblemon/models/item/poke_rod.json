@@ -1,0 +1,12 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "cobblemon:item/handheld_rod",
+	"texture_size": [32, 32],
+	"textures": {
+		"2": "cobblemon:item/fishing/poke_rod",
+		"particle": "cobblemon:item/fishing/poke_rod"
+	},
+	"overrides": [
+		{"predicate": {"cast": 1}, "model": "cobblemon:item/poke_rod_cast"}
+	]
+}

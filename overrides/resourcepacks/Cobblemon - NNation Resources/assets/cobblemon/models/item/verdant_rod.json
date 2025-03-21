@@ -1,0 +1,12 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "cobblemon:item/handheld_rod",
+	"texture_size": [32, 32],
+	"textures": {
+		"2": "cobblemon:item/fishing/verdant_rod",
+		"particle": "cobblemon:item/fishing/verdant_rod"
+	},
+	"overrides": [
+		{"predicate": {"cast": 1}, "model": "cobblemon:item/verdant_rod_cast"}
+	]
+}

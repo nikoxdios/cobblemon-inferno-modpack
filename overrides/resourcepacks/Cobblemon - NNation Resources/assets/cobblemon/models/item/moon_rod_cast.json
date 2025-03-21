@@ -1,0 +1,8 @@
+{
+    "parent": "cobblemon:item/handheld_rod_cast",
+	"texture_size": [32, 32],
+	"textures": {
+		"2": "cobblemon:item/fishing/moon_rod",
+		"particle": "cobblemon:item/fishing/moon_rod"
+	}
+}
